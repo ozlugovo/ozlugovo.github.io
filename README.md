@@ -10,3 +10,6 @@
 
 
 [Урок №12. Хостинг от GitHub](https://ozlugovo.github.io/lesson_12/index.html "Урок №12. Хостинг от GitHub")
+
+
+ [Урок №13. Адаптивная верстка](https://ozlugovo.github.io/project%2013/src/index.html)
