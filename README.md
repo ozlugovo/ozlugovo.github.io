@@ -20,3 +20,6 @@
 
 
 [Модуль 5. Урок № 14](https://ozlugovo.github.io/lesson_14/index.html)
+
+
+[Модуль 5. Практика. Часть 2.](https://ozlugovo.github.io/Modul_5_2/src/index.html)
