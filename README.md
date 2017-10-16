@@ -23,3 +23,6 @@
 
 
 [Модуль 5. Практика. Часть 2.](https://ozlugovo.github.io/Modul_5_2/src/index.html)
+
+
+[Модуль 5. Урок № 15](https://ozlugovo.github.io/%D0%94%D0%B715/index.html)
